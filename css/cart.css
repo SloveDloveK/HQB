@@ -1,0 +1,62 @@
+#wrapper{
+	background: white;
+}
+
+/*top开始*/
+#gwc-top{
+	padding: 0 0.2rem;
+	line-height: 0.88rem;
+	text-align: center;
+	font-size:0.34rem;
+	background: #ec0f38;
+	color: white;
+}
+#gwc-top img{
+	display: inline-block;
+	width: 0.32rem;
+	height: 0.32rem;
+}
+/*top结束*/
+
+/*满减开始*/
+#mj {
+	line-height: 0.64rem;
+	background: #f0f0f0;
+	padding: 0 0.2rem;
+	font-size: 0.26rem;
+}
+#mj span {
+    color: #ec0f38;
+}
+/*满减结束*/
+
+/*商品开始*/
+#gwc-sp{
+	padding:0 0.2rem;
+	font-size: 0.24rem; 
+}
+#gwc-sp img{
+	display: inline-block;
+}
+#gwc-sp li{
+	height: 1.7rem;
+	padding: 0.1rem;
+}
+#gwc-sp .sp-y{
+	display: inline-block;
+	width: 4.7rem;
+	margin-left: 0.1rem;
+}
+#gwc-sp .jj{
+    position: relative;
+}
+#gwc-sp .jj span{
+    width: 0.8rem;
+    line-height:0.36rem; 
+    border: 0.01rem solid #ccc;
+}
+#gwc-sp .jj img{
+	width: 0.4rem;
+	height: 0.4rem;
+}
+/*商品结束*/

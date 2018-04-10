@@ -1,0 +1,34 @@
+#wrapper{
+	background: white;
+}
+#zjt{
+	padding: 0 0.2rem; 
+}
+#zjt img{
+	width:0.48rem;
+	height: 0.48rem;
+	margin: 1.4rem 0;
+	float: left;
+}
+
+#zc{
+	padding: 0 0.2rem;
+	position: relative;
+}
+#zc input{
+    width: 100%;
+    height: 0.8rem;
+	background: #e8e8e8;
+	border-radius: 0.1rem;
+	font-size: 0.28rem;
+	margin-top: 0.2rem;
+	padding-left: 0.2rem;
+	color:#666;
+}
+#zc img{
+	width: 0.48rem;
+	height: 0.48rem;
+	position: absolute;
+	right: 0.4rem;
+    bottom: 1.14rem;
+}

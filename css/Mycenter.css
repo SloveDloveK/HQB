@@ -1,0 +1,111 @@
+#fgx{
+	width: 100%;
+	height: 0.2rem;
+	background: #eeeff3;
+}
+
+/*top开始*/
+#topk{
+	background: url(../images/wdk.jpg);
+	height: 5.13rem;
+}
+#topk div.tx{
+	background: white;
+	height: 1.86rem;
+	width: 1.86rem;
+	border-radius: 50%;
+	position: relative;
+	top: 28%;
+	left: 38%;
+}
+#topk div.tx img{
+	width: 1.4rem;
+	height: 1.54rem;
+	margin: 0rem auto;
+	padding-top:0.14rem; 
+}
+#topk div.tx ul li {
+	width: 3.65rem;
+	height: 1rem;
+	background: rgba(240,93,132,0.5);
+	text-align: center;
+	line-height: 1rem;
+}
+#topk div.tx ul li a{
+	color:white;
+}
+/*top结束*/
+
+/*订单开始*/
+#dd{
+	background: white;
+}
+#dd div.ddbt{
+	padding:0 0.2rem; 
+	height: 0.8rem;
+	width: 100%;
+	border-bottom: 0.01rem solid #ddd;
+	line-height: 0.8rem;
+}
+#dd div.ddbt a{
+	display: inline-block;
+}
+#dd div.ddbt a img{
+	display: inline-block;
+	width: 0.46rem;
+	height: 0.48rem;
+	position: relative;
+	top: 0.12rem;
+	left: 0;
+}
+#dd ul.fk li{
+	padding:0.1rem 0; 
+	float: left;
+	text-align: center;
+	font-size: 0.24rem;
+	width: 25%;
+}
+#dd ul.fk li img{
+	margin: 0 auto;
+	width: 0.48rem;
+	height: 0.48rem;
+}
+/*订单结束*/
+
+/*功能开始*/
+#gn ul li{
+	padding: 0 0.2rem;
+	background: white;
+	border-bottom: 0.01rem solid #ddd;
+}
+#gn ul li a{
+	line-height: 0.8rem;
+}
+#gn ul li img{
+	display: inline-block;
+	width: 0.48rem;
+	height: 0.48rem;
+	position: relative;
+	top: 0.12rem;
+	left: 0;
+}
+/*功能结束*/
+
+/*设置开始*/
+#sz{
+	padding: 0 0.2rem;
+	background: white;
+	border-bottom: 0.01rem solid #ddd;
+}
+#sz a{
+	line-height: 0.8rem;
+}
+#sz img{
+	display: inline-block;
+	width: 0.48rem;
+	height: 0.48rem;
+	position: relative;
+	top: 0.12rem;
+	left: 0;
+}
+/*设置结束*/

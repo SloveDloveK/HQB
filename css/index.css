@@ -1,0 +1,279 @@
+*{
+	padding: 0;
+	margin: 0; 
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+body{
+	font-family: "苹方";
+	overflow-x:hidden; 
+}
+#wrapper{
+	max-width: 7.5rem;
+	min-width: 3.2rem;
+	width: 100%;
+	margin: 0 auto;
+}
+.left{
+	float: left;
+}
+.right{
+	float: right;
+}
+.clearfix{
+	clear: both;
+}
+
+/*分割线*/
+#fg{
+	width: 7.5rem;
+	height: 0.2rem;
+	background: #eee;
+}
+/*分割线*/
+
+/*头部开始*/
+#top{
+	width: 7.5rem;
+	height: 0.88rem;
+	background: #ec0f38;
+}
+#top .tb{
+	width: 100%;
+	padding: 0.19rem 0.2rem;
+}
+#top a.tb1>img{
+	display: inline-block;
+	width: 0.5rem;
+	height: 0.5rem;
+
+}
+#top a.tb2{
+	display: inline-block;
+	width: 1.92rem;
+	height: 0.5rem;
+}
+#top a.tb2>img{
+	width: 100%;
+	height: 100%;
+	margin: 0 1.88rem;
+}
+#top a.tb3>img{
+	display: inline-block;
+	width: 0.66rem;
+	height: 0.5rem;
+}
+/*头部结束*/
+
+/*banner开始*/
+/*banner结束*/
+
+/*分类开始*/
+#fl{
+	padding: 0 0.2rem;
+	background: white;
+	width: 100%;
+	height: 3.14rem;
+	border-bottom:0.01rem solid #bfbfbf;
+}
+#fl ul.fl1{
+    position: absolute;
+}
+#fl ul.fl2{
+    position: absolute;
+}
+#fl ul li{
+	float: left;
+}
+#fl ul li.fltb1{
+	position: relative;
+	left: 0.78rem;
+	top: 0.2rem;
+}
+#fl ul li.fltb2{
+	position: relative;
+	left: 2.34rem;
+	top: 0.2rem;
+}
+#fl ul li.fltb3{
+	position: relative;
+	left: 3.94rem;
+	top: 0.2rem;
+}
+#fl ul li.fltb4{
+	position: relative;
+	left: 0.78rem;
+	top: 1.77rem;
+}
+#fl ul li.fltb5{
+	position: relative;
+	left: 2.34rem;
+	top: 1.77rem;
+}
+#fl ul li.fltb6{
+	position: relative;
+	left: 3.94rem;
+	top: 1.77rem;
+}
+#fl ul.fl1 img{
+	display:block;
+	width: 0.8rem;
+	height: 0.8rem; 
+}
+#fl ul.fl2 img{
+	display:block;
+	width: 0.8rem;
+	height: 0.8rem;
+}
+#fl ul>li{
+	text-align: center;
+}
+#fl ul>li>a{
+	color:black;
+	font-size: 0.22rem;
+}
+/*分类结束*/
+
+/*淘机馆开始*/
+#lc1{
+    background: white;
+}
+#lc1 .bt{
+	border-top:0.01rem solid #bfbfbf;
+	border-bottom:0.01rem solid #bfbfbf;
+	padding: 0 0.2rem;
+}
+#lc1 .bt b.xg{
+	color: #e10808;
+	line-height: 0.5rem;
+	font-weight: bolder;
+}
+#lc1 .bt span.tjg{
+	font-size: 0.3rem;
+}
+#lc1 .bt>a{
+	line-height: 0.5rem;
+	display: inline-block;
+	font-size: 0.28rem;
+	color: #858585;
+}
+#lc1 .tp1{
+	display: inline-block;
+	width: 3.75rem;
+}
+#lc1 .tp1 img{
+    width: 3.75rem;
+    height: 1.64rem;
+}
+#lc1 .tp2{
+	display: inline-block;
+	width: 3.75rem;
+}
+#lc1 .tp2 img{
+    width: 3.75rem;
+    height: 3.28rem;
+}
+#lc1 .sp{
+	background: white;
+	padding: 0 0.2rem;
+	border-bottom: 0.01rem solid #bfbfbf;
+}
+#lc1 .sp img{
+	width: 1.344rem;
+	height: 1.344rem;
+	margin:0.2rem 0.216rem; 
+}
+#lc1 .sp li{
+	border-right: 0.01rem solid #bfbfbf;
+	width: 1.774rem;
+	text-align: center;
+	float: left;
+}
+#lc1 .sp li a:hover{
+	color:black;
+}
+#lc1 .sp p{
+	font-size: 0.2rem;
+}
+#lc1 .sp h4{
+	font-weight: normal;
+	font-size: 0.22rem;
+	color: #e10808;
+}
+/*淘机馆结束*/
+
+/*折扣惠开始*/
+#lc1 ul.rm{
+	padding: 0 0.2rem;
+}
+#lc1 ul.rm li{
+	width: 3.3rem;
+	float: left;
+	padding: 0.08rem 0.06rem;
+	border: 0.01rem solid #e2e2e2;
+}
+#lc1 ul.rm li>img{
+	margin:0 0.15rem;
+	width: 2.78rem;
+	height: 2.78rem;
+}
+#lc1 ul.rm li p{
+	font-size: 0.20rem;
+}
+#lc1 ul.rm li h3{
+	margin-bottom: 0.16rem;
+	font-size: 0.2rem;
+	color: #e10808;
+	font-weight: normal;
+}
+#lc1 ul.rm li span{
+	font-size: 0.2rem;
+}
+#lc1 ul.rm li span img{
+	width: 0.19rem;
+	height: 0.16rem;
+	display: inline-block;
+}
+#lc1 ul.rm li span>span{
+	display: inline-block;
+	margin-left:0.5rem;
+}
+#lc1 ul.rm li span>span>i{
+	display: inline-block;
+	width: 0;
+    height: 0;
+    border-top: 0.195rem solid transparent;
+    border-left: 0.195rem solid transparent;
+    border-bottom: 0.195rem solid transparent;
+    border-right: 0.195rem solid #e10808;
+    position: relative;
+    top:0.11rem;
+    left:0.5rem;
+}   
+/*折扣惠结束*/
+
+/*底部开始*/
+#bottom{
+	padding: 0 0.2rem;
+	border-top: 1px solid #c2c2c2;
+	width: 7.5rem;
+	height: 0.98rem;
+	background: white;
+	text-align: center;
+	font-size:0.22rem;
+	position: fixed;
+	bottom: 0;
+}
+#bottom img{
+	width: 0.48rem;
+	height: 0.48rem;
+}
+#bottom li{
+	display: inline-block;
+	margin: 0.1rem 0.6rem; 
+}
+/*底部结束*/

@@ -1,0 +1,186 @@
+#wrapper{
+	background: white;
+}
+/*top开始*/
+#xq-top{
+	width: 100%;
+	height: 0.88rem;
+	background: #ec0f39;
+	color:white;
+	padding:0 0.2rem;
+	position: relative;
+	text-align: center;
+	line-height: 0.88rem; 
+}
+#xq-top a{
+	color:white;
+	font-size:0.32rem;
+	padding: 0.12rem 0.3rem;
+}
+#xq-top img{
+	width: 0.48rem;
+	height: 0.48rem;
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	top:0.2rem;
+}
+/*top结束*/
+
+/*banner开始*/
+div.banner div img{
+	margin:0 auto; 
+}
+/*banner结束*/
+
+/*介绍开始*/
+#js .mc {
+	border-top: 0.01rem solid #ccc;
+	border-bottom: 0.01rem solid #ccc;
+	line-height: 0.68rem;
+	padding: 0 0.2rem;
+}
+#js .mc p{
+	font-size: 0.3rem; 
+}
+#js .cx {
+	line-height: 0.64rem;
+	padding: 0 0.2rem;
+	border-bottom: 0.01rem solid #ccc;
+}
+#js .cx img {
+	display: inline-block;
+	width: 0.12rem;
+	height: 0.22rem;
+}
+/*介绍结束*/
+
+/*挑选开始*/
+#tx{
+	border-top: 0.01rem solid #ccc;
+	border-bottom: 0.01rem solid #ccc;
+	padding:0 0.2rem;
+	font-size: 0.26rem;
+	line-height: 0.64rem;
+}
+#tx span{
+    color:#999;
+    margin-right: 0.12rem; 
+}
+#tx a img{
+	display: inline-block;
+	width: 0.12rem;
+	height: 0.22rem;
+}
+
+/*挑选结束*/
+
+/*保障开始*/
+#bz {
+	border-top: 0.01rem solid #ccc;
+	border-bottom: 0.01rem solid #ccc;
+	width: 100%;
+	padding: 0 0.2rem;
+}
+#bz img{
+	width: 100%;
+	height: 0.32rem;
+	margin: 0.16rem 0;
+}
+/*保障结束*/
+
+/*评价开始*/
+#pj .pj-bt {
+	border-top: 0.01rem solid #ccc;
+	border-bottom: 0.01rem solid #ccc;
+	padding:0 0.2rem;
+	font-size: 0.26rem;
+	line-height: 0.64rem; 
+}
+#pj .pj-bt a.jt{
+    float: right;
+}
+#pj .pj-nr{
+	border-bottom: 0.01rem solid #ccc;
+	padding: 0  0.2rem;
+	line-height: 0.68rem;
+	position: relative;
+	font-size: 0.22rem; 
+}
+#pj .pj-nr a{
+	padding-left: 0.58rem;
+}
+#pj .pj-nr img{
+	display: inline-block;
+	width: 0.56rem;
+	height: 0.48rem;
+	position: absolute;
+	left: 0.2rem;
+	top: 0.1rem;
+}
+#pj .pj-nr span{
+	color: #999;
+	float: right;
+}
+/*评价结束*/
+
+/*图文详情开始*/
+#twxq .twxq-bt{
+	padding: 0 0.2rem;
+	border-top: 0.01rem solid #ccc;
+	border-bottom: 0.01rem solid #ccc; 
+	text-align: center;
+	line-height: 0.64rem;
+}
+#twxq .twxq-bt img{
+	display: inline-block;
+	width: 0.26rem;
+	height: 0.22rem;
+}
+#twxq .txq img{
+	width: 100%;
+}
+/*图文详情结束*/
+
+/*底部开始*/
+#xq-bottom {
+	width: 100%;
+	height: 0.98rem;
+	border-top:0.01rem solid #ccc;
+	/*position: fixed;
+	bottom:0;
+	left: 0;*/
+}
+#xq-bottom img{
+	width: 0.48rem;
+	height: 0.48rem;
+	display: inline-block;
+}
+#xq-bottom li{
+	display: inline-block;
+	text-align: center;
+	float: left;
+}
+#xq-bottom .db1{
+	position: relative;
+	padding: 0.52rem 0 0.09rem 0;
+	background: white;
+}
+#xq-bottom .db1 img	{
+    position: absolute;
+    top: 0.12rem;
+    left:0.7rem;
+}
+#xq-bottom .db1{
+	width: 1.84rem;
+	text-align: center;
+}
+#xq-bottom .db2{
+	width: 3.82rem;
+	line-height: 0.98rem;
+	background: #ec0f39;
+}
+#xq-bottom .db2 a{
+	color: white;
+}
+/*底部结束 */

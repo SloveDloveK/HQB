@@ -1,0 +1,81 @@
+/*头部分类结束*/
+#top-fl{
+	background: #fff;
+	border-bottom: 0.01rem solid #bfbfbf;
+	height: 0.64rem;
+}
+#top-fl span{
+	margin: 0 0.62rem;
+}
+#top-fl span a.jt{
+	position: relative;
+}
+#top-fl span .i1{
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border-bottom: 0.1rem solid #bfbfbf  ;
+	border-left: 0.1rem solid transparent;
+	border-right: 0.1rem solid transparent;
+	border-top: 0.1rem solid transparent;
+	position: absolute;
+	top: 0rem;
+	right: -0.22rem;
+}
+#top-fl span .i2{
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border-bottom: 0.1rem solid transparent ;
+	border-left: 0.1rem solid transparent;
+	border-right: 0.1rem solid transparent;
+	border-top: 0.1rem solid #e10808;
+	position: absolute;
+	bottom: -0.06rem;
+	right: -0.22rem;
+}
+/*头部分类结束*/
+
+/*产品开始*/
+#cp{
+	background: #eee9e9;
+	padding: 0 0.2rem;
+}
+#cp ul li{
+	float: left;
+	margin: 0.2rem 0 0.1rem 0;
+	padding: 0.1rem;
+	width: 3.45rem;
+    background: white;
+}
+#cp ul li img{
+	width: 3.25rem;
+	height: 3.2rem;
+}
+#cp ul li span{
+	color:#e10808;
+}
+#cp ul li em{
+	font-size: 0.2rem;
+	text-decoration: line-through;
+	color:#8d8d8d;
+	margin: 0 0.2rem;  
+}
+#cp ul li p{
+	font-size: 0.22rem;
+}
+#cp ul li em{
+	font-style: normal;
+    color:#8d8d8d;
+}
+#cp ul li i{
+	font-size: 0.2rem;
+    font-style: normal;
+    color:#8d8d8d;
+}
+#cp ul li i img{
+	display: inline-block;
+	width: 0.2rem;
+	height: 0.2rem;
+}
+/*产品结束*/
